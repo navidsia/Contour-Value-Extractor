@@ -4,7 +4,7 @@ A desktop application that extracts contour data and scale values from scientifi
 
 ---
 
-## 📌 Overview
+ Overview
 
 This tool processes an input image containing:
 - A **contour plot**
@@ -20,7 +20,7 @@ It automatically:
 
 ---
 
-## ⚙️ Features
+ Features
 
 - Automatic contour and scale detection using OpenCV
 - Color-to-value mapping from extracted legend
@@ -34,7 +34,7 @@ It automatically:
 
 ---
 
-## 🖼️ Input Requirements
+ Input Requirements
 
 The input image should contain:
 - A clearly visible **contour plot**
@@ -45,7 +45,7 @@ Best results are achieved with high-resolution scientific plots.
 
 ---
 
-## 🧠 How It Works
+ How It Works
 
 1. **Preprocessing**
    - Converts image to grayscale
@@ -72,7 +72,6 @@ Best results are achieved with high-resolution scientific plots.
    - Writes results using Microsoft Excel Interop
 
 ---
-
-## 📤 Output
+ Output
 
 For each input image, a folder is created:
