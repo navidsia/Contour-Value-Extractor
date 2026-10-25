@@ -153,4 +153,4 @@ Contour_Value_Extractor/
 
 ## Author
 
-Created by **Navid Siamakmanesh**. For questions or feedback, open a GitHub issue.
+Created by **Navid Siamakmanesh**. For questions or feedback,  Email me at Navid.Siamakmanesh@gmail.com
